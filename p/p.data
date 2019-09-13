@@ -1,0 +1,6 @@
+classes= 1
+train  = pic/train.txt
+valid  = pic/valid.txt
+names = p/p.names
+backup = backup/
+
